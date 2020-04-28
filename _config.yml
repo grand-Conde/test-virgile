@@ -1,2 +1,5 @@
 theme: jekyll-theme-slate
 show_downloads: true
+github:
+  zip_url: https://github.com/grand-Conde/test-virgile/releases/download/1/V.-Reignier-Tableau-detude-du-terrier-de-Devesset.xlsx
+  another_url: another value
