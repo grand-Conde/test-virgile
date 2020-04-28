@@ -1,5 +1,6 @@
 theme: jekyll-theme-slate
 show_downloads: true
+logo: /devesset.png
 github:
   zip_url: https://github.com/grand-Conde/test-virgile/archive/1.zip
   another_url: another value
